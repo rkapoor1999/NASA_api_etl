@@ -1,0 +1,35 @@
+{
+    "BigQuery Schema": [{
+      "name": "copyright",
+      "type": "STRING"
+     },
+     {
+      "name": "date",
+      "type": "DATE"
+     },
+     {
+      "name": "explanation",
+      "type": "STRING"
+     },
+     {
+      "name": "hdurl",
+      "type": "STRING"
+     },
+     {
+      "name": "media_type",
+      "type": "STRING"
+     },
+     {
+      "name": "service_version",
+      "type": "STRING"
+     },
+     {
+      "name": "title",
+      "type": "STRING"
+     },
+     {
+      "name": "url",
+      "type": "STRING"
+     }
+    ]
+   }
