@@ -1,7 +1,7 @@
 import requests
 import csv
 
-api_key = 'hzjb5me6c39Eo1ezJUyLr13cUB4kfVY0hFpP5usm'
+api_key = 'YOUR API KEY'
 
 def fetch_apod(api_key):
     url = f"https://api.nasa.gov/planetary/apod?api_key={api_key}"
